@@ -1,1 +1,1 @@
-Sitemap: /sitemap.xml
+Sitemap: https://github.com/pages/netoht.github.io/wuel/sitemap.xml
